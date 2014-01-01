@@ -1,0 +1,26 @@
+{
+  "name": "mi-countdown",
+  "version": "0.0.1",
+  "description": "Prints a countdown to a time in days, hours, minutes, seconds",
+  "main": "lib/countdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/coffee -c -o lib src"
+  },
+  "devDependencies": {
+    "coffee-script": "1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/movableink/countdown.git"
+  },
+  "keywords": [
+    "countdown",
+    "timer"
+  ],
+  "author": "Michael Nutt <michael@nuttnet.net>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/movableink/countdown/issues"
+  }
+}
