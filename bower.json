@@ -1,0 +1,22 @@
+{
+  "name": "mi-countdown",
+  "version": "0.0.1",
+  "authors": [
+    "Michael Nutt <michael@nuttnet.net>"
+  ],
+  "description": "Displays day/hour/minute/second countdown in an element",
+  "main": "lib/countdown.js",
+  "keywords": [
+    "countdown",
+    "timer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/movableink/countdown",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
